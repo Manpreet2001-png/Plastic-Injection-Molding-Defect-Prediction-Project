@@ -147,8 +147,5 @@ Hey! I'm **Manpreet Sharma**, an aspiring Data Scientist with a passion for real
 
 - [x] ML pipeline complete
 - [x] Models evaluated and compared
-- [x] Interactive dashboard created
-- [ ] Deployment (Coming soon...)
 
----
 
